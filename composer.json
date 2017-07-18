@@ -1,6 +1,6 @@
 {
     "name": "tsameem/admin",
-    "description": "A package for creating all needed files for admin auth",
+    "description": "A package for creating all needed files for admin's auth beside user's auth",
     "license": "MIT",
     "authors": [
         {
