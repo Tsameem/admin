@@ -8,5 +8,10 @@
             "email": "info@tsameem.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tsameem\\Admin\\": "packages/tsameem/admin/src"
+        }
+    }
 }
