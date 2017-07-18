@@ -5,13 +5,14 @@
     "authors": [
         {
             "name": "Tsameem Team",
-            "email": "info@tsameem.com"
+            "email": "info@tsameem.com",
+            "homepage": "http://tsameem.com",
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Tsameem\\Admin\\": "packages/tsameem/admin/src"
+            "Tsameem\\Admin\\": "src"
         }
     }
 }
