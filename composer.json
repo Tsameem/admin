@@ -2,13 +2,11 @@
     "name": "tsameem/admin",
     "description": "A package for creating all needed files for admin auth",
     "license": "MIT",
-    "type": "project",
     "authors": [
         {
             "name": "Tsameem Team",
             "email": "info@tsameem.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
